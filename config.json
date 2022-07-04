@@ -1,0 +1,6 @@
+{
+	"host": "manhbi18112005.aternos.me",
+	"port": 47356,
+    "bot_prefix": "afk-bot-",
+    "max_bot": 10
+}
